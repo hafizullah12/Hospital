@@ -13,11 +13,14 @@ It is a simple proect about hospital management.
 <b> 
 
 <h2> demo link <h2> 
+  <br>
   <p> http://imhafiz.info/hospital/ </p> 
 
 <h2>Admin Panel<h2>
+  <br>
 
 <p> http://imhafiz.info/hospital/admin </p>
 
 email:    admin@gmail.com
+<br>
 password: 12345
