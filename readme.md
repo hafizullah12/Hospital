@@ -9,10 +9,14 @@
 
 ## About Hospital Management
 It is a simple proect about hospital management.
-demo link 
+
+<b> 
+
+<h2> demo link <h2> 
 http://imhafiz.info/hospital/ 
 
-Admin Panel 
+<h2>Admin Panel<h2>
+
 http://imhafiz.info/hospital/admin
 
 email:    admin@gmail.com
